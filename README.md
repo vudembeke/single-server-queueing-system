@@ -16,5 +16,5 @@ It models customer arrivals and service processes based on exponential probabili
 ##  Technologies Used
 - Python(Core language)  
 - Math & Random Libraries for probability distribution and stochastic modeling  
-  File I/O for reading input (`mm1.in`) and writing simulation reports (`mm1.out`)  
+- File I/O for reading input (`mm1.in`) and writing simulation reports (`mm1.out`)  
 
